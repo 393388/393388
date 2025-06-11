@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @hamza khan
-- 👀 I’m interested in ethical hacking ,prompt engineering
-- 🌱 I’m currently learning nothing but willing to learn evrything that comes in my way or you can say i want to all rounder
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : email me at hamzek828@gmail.com
-- 😄 Pronouns: <3
-- ⚡ Fun fact: ...
+# 👋 Hey, I'm HAMZA BILAL
 
-<!---
-393388/393388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a freelance web and AI tools developer — I help creators, startups, and hustlers build useful stuff fast.
+
+# What I Do
+- Build responsive websites using **HTML/CSS**
+- Create simple tools & automations using **Python**
+- Experiment with **AI tools and APIs** (like ChatGPT, Langchain, etc.)
+
+# 🛠️ Skills
+`HTML` `CSS` `Python` `OpenAI API` `Gradio` `Git` `GitHub`
+
+# 📂 Featured Projects
+- Simple Business Landing Page (#)
+- AI Prompt Tool(#)
+
+# 📫 Contact Me
+- 📧 Email:hamzek828@gmail.com
+- 
+---
+
+Let’s build something awesome together 🚀
